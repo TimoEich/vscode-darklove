@@ -1,7 +1,7 @@
 {
     "name": "vscode-theme-dark-love",
-    "displayName": "vscode-theme-dark-love",
-    "description": "VSCode Dark Theme",
+    "displayName": "Dark Love Theme",
+    "description": "VSCode Dark Theme - Dark Love",
     "version": "0.0.2",
     "publisher": "TimoEi",
     "engines": {
@@ -14,7 +14,8 @@
         "vscode",
         "jey",
         "dark",
-        "darklove"
+        "darklove",
+        "dark love"
     ],
     "repository": {
         "type": "git",
