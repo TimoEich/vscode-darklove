@@ -3,12 +3,23 @@
     "displayName": "vscode-theme-dark-love",
     "description": "VSCode Dark Theme",
     "version": "0.0.1",
+    "publisher": "TimoEi",
     "engines": {
         "vscode": "^1.63.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "vscode",
+        "jey",
+        "dark",
+        "darklove"
+    ],
+    "repository": {
+        "type": "git",
+        "repository": "https://github.com/TimoEich/vscode-darklove"
+    },
     "contributes": {
         "themes": [
             {
