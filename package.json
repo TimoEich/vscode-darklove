@@ -2,7 +2,7 @@
     "name": "vscode-theme-dark-love",
     "displayName": "Dark Love Theme",
     "description": "VSCode Dark Theme - Dark Love",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "TimoEi",
     "engines": {
         "vscode": "^1.63.0"
