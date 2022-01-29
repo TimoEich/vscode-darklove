@@ -19,7 +19,7 @@
     ],
     "repository": {
         "type": "git",
-        "repository": "https://github.com/TimoEich/vscode-darklove"
+        "url": "https://github.com/TimoEich/vscode-darklove"
     },
     "contributes": {
         "themes": [
